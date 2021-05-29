@@ -1,0 +1,46 @@
+Writing:highway point to file
+Writing:Bulevard point to file
+Writing:Bulevard point to file
+Writing:Street point to file
+Writing:Bulevard point to file
+Writing:Street point to file
+Writing:highway point to file
+Writing:Bulevard point to file
+Writing:Mountain road point to file
+Entries:9
+First: 1.000000
+Second: 2.000000
+Third: 3
+Forth: highway
+First: 5.000000
+Second: 6.000000
+Third: 7
+Forth: Bulevard
+First: 8.000000
+Second: 9.000000
+Third: 10
+Forth: Bulevard
+First: 11.000000
+Second: 12.000000
+Third: 13
+Forth: Street
+First: 15.000000
+Second: 16.000000
+Third: 17
+Forth: Bulevard
+First: 18.000000
+Second: 19.000000
+Third: 20
+Forth: Street
+First: 21.000000
+Second: 22.000000
+Third: 23
+Forth: highway
+First: 25.000000
+Second: 26.000000
+Third: 27
+Forth: Bulevard
+First: 28.000000
+Second: 29.000000
+Third: 30
+Forth: Mountain road
